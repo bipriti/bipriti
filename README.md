@@ -1,4 +1,4 @@
-# 👋 Hello, I am Bipriti Deb Sarma.
+# 👋 Hi, I'm Bipriti Deb Sarma!
 
 🎓 **Final Year BTech Student** | **Electronics and Communication Engineering** | **NIT Agartala**
 
@@ -22,3 +22,9 @@ I enjoy working on practical electronics projects, and I've gained experience th
 ---
 
 I’m always excited to dive into new technologies and contribute to projects that make a meaningful impact in the real world.
+
+---
+
+📬 **Let’s Connect**:  
+- Email: [bipriti.sarma@gmail.com](mailto:bipriti.sarma@gmail.com)  
+- LinkedIn: [Bipriti Deb Sarma](https://www.linkedin.com/in/bipriti-deb-sarma-1a67b6230/)
