@@ -19,9 +19,11 @@ I enjoy working on practical electronics projects, and I've gained experience th
 - 🚦 **FSM-Based Traffic Light Controller** in Verilog  
 - 🌱 **Sensor-Driven Automated Irrigation System** using Arduino
 
+---
 
   I’m always excited to dive into new technologies and contribute to projects that make a meaningful impact in the real world.
 
+---
 
 📬 **Let’s Connect**:  
 - Email: [bipriti.sarma@gmail.com](mailto:bipriti.sarma@gmail.com)  
