@@ -20,7 +20,7 @@ I enjoy working on practical electronics projects, and I've gained experience th
 - 🌱 **Sensor-Driven Automated Irrigation System** using Arduino
 
 
- # I’m always excited to dive into new technologies and contribute to projects that make a meaningful impact in the real world.
+  I’m always excited to dive into new technologies and contribute to projects that make a meaningful impact in the real world.
 
 
 📬 **Let’s Connect**:  
