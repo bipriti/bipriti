@@ -15,13 +15,20 @@ I’m eager to contribute to projects in **VLSI**, **digital design**, and **har
 I enjoy working on practical electronics projects, and I've gained experience through various hands-on designs, including:
 
 - 🖥️ **5-Stage RISC Processor** using Verilog HDL  
+  [View Project](https://github.com/bipriti/RISC-V_MIPS32-Processors-VerilogHDL)
+  
 - 🧩 **CMOS Inverter Design** using Cadence Virtuoso  
+  [View Project](https://github.com/bipriti/CMOS_Inverter_Cadence-Virtuoso)
+  
 - 🚦 **FSM-Based Traffic Light Controller** in Verilog  
-- 🌱 **Sensor-Driven Automated Irrigation System** using Arduino
+  [View Project](https://github.com/bipriti/Moore_FSM_Based_Traffic-Light-Controller_VerilogHDL)
+  
+- 🌱 **Sensor-Driven Automated Irrigation System** using Arduino  
+  [View Project](https://github.com/bipriti/Automated-Sensor-Driven-Irrigation-ARDUINO-UNO)
 
 ---
 
-  I’m always excited to dive into new technologies and contribute to projects that make a meaningful impact in the real world.
+I’m always excited to dive into new technologies and contribute to projects that make a meaningful impact in the real world.
 
 ---
 
